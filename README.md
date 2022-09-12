@@ -25,5 +25,5 @@
 - the function is a simple and compact as possible
 
 #### Links
-Mozilla Developer Network (MDN): https://developer.mozilla.org/en-US/
-SkillSet: https://my.skilldisplay.eu/en/skillset/589
+- Mozilla Developer Network (MDN): https://developer.mozilla.org/en-US/
+- SkillSet: https://my.skilldisplay.eu/en/skillset/589
